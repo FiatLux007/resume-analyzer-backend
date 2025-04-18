@@ -1,0 +1,153 @@
+{
+  "Backend Engineer": {
+    "languages": [
+      "Java",
+      "Node.js",
+      "Go",
+      "TypeScript",
+      "Python"
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "Express",
+      "Django"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "MongoDB",
+      "SQL"
+    ],
+    "infrastructure": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Microservices"
+    ],
+    "tools": [
+      "Git",
+      "Jenkins",
+      "REST API",
+      "GraphQL"
+    ]
+  },
+  "Data Engineer": {
+    "languages": [
+      "Python",
+      "Scala",
+      "Java"
+    ],
+    "frameworks": [
+      "Spark",
+      "Airflow",
+      "Flink"
+    ],
+    "databases": [
+      "BigQuery",
+      "Snowflake",
+      "Redshift",
+      "Hive"
+    ],
+    "infrastructure": [
+      "Kafka",
+      "Hadoop",
+      "ETL",
+      "Data Lake"
+    ],
+    "tools": [
+      "SQL",
+      "Tableau",
+      "dbt",
+      "Looker"
+    ]
+  },
+  "Frontend Engineer": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "React",
+      "Vue",
+      "Angular",
+      "Next.js"
+    ],
+    "tools": [
+      "Webpack",
+      "Babel",
+      "ESLint"
+    ],
+    "testing": [
+      "Jest",
+      "Cypress",
+      "Playwright"
+    ],
+    "design": [
+      "Figma",
+      "Storybook",
+      "TailwindCSS"
+    ]
+  },
+  "DevOps Engineer": {
+    "languages": [
+      "Python",
+      "Bash",
+      "Go"
+    ],
+    "infrastructure": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Terraform"
+    ],
+    "ci_cd": [
+      "Jenkins",
+      "GitLab CI",
+      "CircleCI"
+    ],
+    "monitoring": [
+      "Prometheus",
+      "Grafana",
+      "Datadog"
+    ],
+    "tools": [
+      "Ansible",
+      "Puppet",
+      "Helm"
+    ]
+  },
+  "AI/ML Engineer": {
+    "languages": [
+      "Python",
+      "C++",
+      "R"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ],
+    "tools": [
+      "Jupyter",
+      "Pandas",
+      "NumPy",
+      "OpenCV"
+    ],
+    "infrastructure": [
+      "AWS SageMaker",
+      "GCP AI Platform"
+    ],
+    "topics": [
+      "Deep Learning",
+      "Computer Vision",
+      "NLP",
+      "Reinforcement Learning"
+    ]
+  }
+}
